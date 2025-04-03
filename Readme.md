@@ -1,4 +1,4 @@
-# How to Be a Good Prompt Engineer 🚀
+# A Structured Guide on Mastering Prompt Engineering
 
 Prompt engineering is all about asking the right questions in the right way to get accurate and useful AI responses. Mastering it can boost productivity, problem-solving, and AI-assisted workflows.
 
@@ -63,5 +63,6 @@ Prompt engineering is all about asking the right questions in the right way to g
 
 ## 🔹 Pro Tip:
 ✅ Practice daily by experimenting with different prompt styles.
+
 ✅ Observe how AI responds and refine your approach.
 
